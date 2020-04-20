@@ -11,6 +11,30 @@ License - nucleoapp.com/license/
   font-weight: normal;
   font-style: normal;
 }
+
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: Crunchy;
+    src: url(../fonts/Crunchy.ttf) format("truetype");
+}
+@font-face {
+font-family: Milton_One;
+src: url(../fonts/Milton_One.otf) format("opentype");
+}
+@font-face {
+    font-family: Milton_One_Bold;
+    src: url(../fonts/Milton_One_Bold.otf) format("opentype");
+}
+@font-face {
+    font-family: Wolf;
+    src: url(../fonts/Wolf.ttf) format("truetype");
+}
+@font-face {
+    font-family: Wolf_Light;
+    src: url(../fonts/Wolf_Light.ttf) format("truetype");
+}
+
+
 /*------------------------
 	base class definition
 -------------------------*/
