@@ -33,6 +33,10 @@ src: url(../fonts/Milton_One.otf) format("opentype");
     font-family: Wolf_Light;
     src: url(../fonts/Wolf_Light.ttf) format("truetype");
 }
+@font-face {
+    font-family: comesinhandy;
+    src: url(../fonts/comesinhandy.woff) format("woff");
+}
 
 
 /*------------------------
